@@ -18,7 +18,7 @@
 | Completed | Problem | Solution |
 | :-------: | ------- | :------: |
 | ✔️ | [Weird Algorithm](https://cses.fi/problemset/task/1068) | [C++](./problems/1068/cpp/solution.cpp) |
-|   | [Missing Number](https://cses.fi/problemset/task/1083) |   |
+| ✔️ | [Missing Number](https://cses.fi/problemset/task/1083) | [C++](./problems/1083/cpp/solution.cpp) |
 |   | [Repetitions](https://cses.fi/problemset/task/1069) |   |
 |   | [Increasing Array](https://cses.fi/problemset/task/1094) |   |
 |   | [Permutations](https://cses.fi/problemset/task/1070) |   |
