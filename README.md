@@ -1,7 +1,7 @@
 # CSES Problem Set Solutions
 | Category | Solved |
 | -------- | :----: |
-| Introductory Problems | 6/19 |
+| Introductory Problems | 7/19 |
 | Sorting and Searching | 0/35 |
 | Dynamic Programming | 0/19 |
 | Graph Algorithms | 0/36 |
@@ -12,7 +12,7 @@
 | Geometry | 0/7 |
 | Advanced Techniques | 0/24 |
 | Additional Problems | 0/77 |
-| **Total** | **6/300** |
+| **Total** | **7/300** |
 
 ## Introductory Problems
 | Completed | Problem | Solution |
@@ -23,7 +23,7 @@
 | ✔️ | [Increasing Array](https://cses.fi/problemset/task/1094) | [C++](./problems/1094/cpp/solution.cpp) |
 | ✔️ | [Permutations](https://cses.fi/problemset/task/1070) | [C++](./problems/1070/cpp/solution.cpp) |
 | ✔️ | [Number Spiral](https://cses.fi/problemset/task/1071) | [C++](./problems/1071/cpp/solution.cpp) |
-|   | [Two Knights](https://cses.fi/problemset/task/1072) |   |
+| ✔️ | [Two Knights](https://cses.fi/problemset/task/1072) | [C++](./problems/1072/cpp/solution.cpp) |
 |   | [Two Sets](https://cses.fi/problemset/task/1092) |   |
 |   | [Bit Strings](https://cses.fi/problemset/task/1617) |   |
 |   | [Trailing Zeros](https://cses.fi/problemset/task/1618) |   |
