@@ -1,7 +1,7 @@
 # CSES Problem Set Solutions
 | Category | Solved |
 | -------- | :----: |
-| Introductory Problems | 0/19 |
+| Introductory Problems | 1/19 |
 | Sorting and Searching | 0/35 |
 | Dynamic Programming | 0/19 |
 | Graph Algorithms | 0/36 |
@@ -12,12 +12,12 @@
 | Geometry | 0/7 |
 | Advanced Techniques | 0/24 |
 | Additional Problems | 0/77 |
-| **Total** | **0/300** |
+| **Total** | **1/300** |
 
 ## Introductory Problems
 | Completed | Problem | Solution |
 | :-------: | ------- | :------: |
-|   | [Weird Algorithm](https://cses.fi/problemset/task/1068) |   |
+| ✔️ | [Weird Algorithm](https://cses.fi/problemset/task/1068) | [C++](./problems/1068/cpp/solution.cpp) |
 |   | [Missing Number](https://cses.fi/problemset/task/1083) |   |
 |   | [Repetitions](https://cses.fi/problemset/task/1069) |   |
 |   | [Increasing Array](https://cses.fi/problemset/task/1094) |   |
