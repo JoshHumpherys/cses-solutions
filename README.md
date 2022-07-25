@@ -1,7 +1,7 @@
 # CSES Problem Set Solutions
 | Category | Solved |
 | -------- | :----: |
-| Introductory Problems | 1/19 |
+| Introductory Problems | 3/19 |
 | Sorting and Searching | 0/35 |
 | Dynamic Programming | 0/19 |
 | Graph Algorithms | 0/36 |
@@ -12,14 +12,14 @@
 | Geometry | 0/7 |
 | Advanced Techniques | 0/24 |
 | Additional Problems | 0/77 |
-| **Total** | **1/300** |
+| **Total** | **3/300** |
 
 ## Introductory Problems
 | Completed | Problem | Solution |
 | :-------: | ------- | :------: |
 | ✔️ | [Weird Algorithm](https://cses.fi/problemset/task/1068) | [C++](./problems/1068/cpp/solution.cpp) |
 | ✔️ | [Missing Number](https://cses.fi/problemset/task/1083) | [C++](./problems/1083/cpp/solution.cpp) |
-|   | [Repetitions](https://cses.fi/problemset/task/1069) |   |
+| ✔️ | [Repetitions](https://cses.fi/problemset/task/1069) | [C++](./problems/1069/cpp/solution.cpp) |
 |   | [Increasing Array](https://cses.fi/problemset/task/1094) |   |
 |   | [Permutations](https://cses.fi/problemset/task/1070) |   |
 |   | [Number Spiral](https://cses.fi/problemset/task/1071) |   |
